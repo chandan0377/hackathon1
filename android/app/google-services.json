@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "673219025194",
+    "firebase_url": "https://hackathon1-4889a-default-rtdb.firebaseio.com",
+    "project_id": "hackathon1-4889a",
+    "storage_bucket": "hackathon1-4889a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673219025194:android:856ea62a166d5014216653",
+        "android_client_info": {
+          "package_name": "com.example.hackathon1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZPQtsXSmu8KZT5rQrRknIybOusp2Qf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
